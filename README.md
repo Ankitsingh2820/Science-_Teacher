@@ -1,5 +1,11 @@
 # Science Teacher Chat Tool
 
+## Live Demo
+
+[https://ankitsingh2820.github.io/Science-_Teacher/](https://ankitsingh2820.github.io/Science-_Teacher/)
+
+> Note: AI responses require the Python/Flask backend to be running locally with a Gemini API key.
+
 An interactive AI-powered chat tool that acts as an enthusiastic and patient Science Teacher. It uses the Gemini API to provide structured, step-by-step explanations for scientific concepts.
 
 ## 🚀 Features
